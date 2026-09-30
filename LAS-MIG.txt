@@ -1,0 +1,13 @@
+ISELA – GITHUB PAGES
+
+Packa upp ZIP-filen och ladda upp allt innehåll till repositoryts rot. index.html ska ligga direkt i roten tillsammans med styles.css,script.js,assets/ och alla andra HTML-filer.
+
+I GitHub: Settings > Pages > Deploy from a branch > main > / (root).
+
+Alla bilder och typsnitt är lokala. Inga installationssteg krävs.
+
+Kontaktverktyget skapar ett mejlutkast i besökarens e-postprogram. Besökaren granskar och skickar själv.
+
+SEO: uppdatera canonical-adresser, JSON-LD,url i sitemap.xml och robots.txt till den slutliga domänen före lansering.
+
+Material från isela.se,30september2026. Historiska pressartiklar behåller sitt årtal. Bildrättigheter tillhör respektive upphovsperson.

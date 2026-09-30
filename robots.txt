@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isela-patricia-trambevski.carlzzon121.chatgpt.site/sitemap.xml
